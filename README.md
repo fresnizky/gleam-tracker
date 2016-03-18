@@ -13,12 +13,14 @@ Download ZIP, unzip and then go to "/demo" folder drag'n drop the package file (
 2. Go to popup.html and popup.js to change markup and script
 3. (optional) change style in style.css
 4. (optional) change icons in "/img" folder
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :)
+
 ## Used librarys
 
 <a href="http://getmdl.io">MDL (Material Design Lite)</a><br>
