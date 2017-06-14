@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/fresnizky/gleam-tracker.png?label=ready&title=Ready)](https://waffle.io/fresnizky/gleam-tracker?utm_source=badge)
 # Material-Design-chrome-extension-template
 Enjoy using the new MDL (Material Design Lite) library powered template for creating your own chrome extension!
 
