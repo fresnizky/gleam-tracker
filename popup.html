@@ -15,11 +15,17 @@
 
   <!-- Body -->
   <body style="width:200px;">
-
-    <!-- Accent-colored raised button with ripple -->
-    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" id="pressme">
-      Button
-    </button>
-
+    <div class="mdl-tabs mdl-js-tabs">
+      <div class="mdl-tabs__tab-bar">
+        <a class="mdl-tabs__tab" href="#active">Active</a>
+        <a class="mdl-tabs__tab" href="#visited">Visited</a>
+      </div>
+      <div class="mdl-tabs__panel is-active" id="active">
+        <p>Active</p>
+      </div>
+      <div class="mdl-tabs__panel" id="visited">
+        <p>Visited</p>
+      </div>
+    </div>
   </body>
 </html>
