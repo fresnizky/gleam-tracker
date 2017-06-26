@@ -1,0 +1,7 @@
+{
+    "name": "gleam-tracker-chrome-extension",
+    "version": "1.0.0",
+    "devDependencies": {
+        "sinon-chrome": "^2.2.1"
+    }
+}
